@@ -50,6 +50,9 @@ Operation record in here
 
 - [Cron task for ping](https://github.com/near/stakewars-iii/blob/main/challenges/006.md)
 
+Operation record in here
+[./006.md](./006.md)
+
 ## [TODO]
 
 ### 007
