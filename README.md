@@ -29,13 +29,22 @@ Operation record in here
 
 - [Deploy a new staking pool for your validator](https://github.com/near/stakewars-iii/blob/main/challenges/003.md)
 
+Operation record in here
+[./003.md](./003.md)
+
 ### 004
 
 - [Setup tools for monitoring node status](https://github.com/near/stakewars-iii/blob/main/challenges/004.md)
 
+Operation record in here
+[./004.md](./005.md)
+
 ### 005
 
 - [Setup a validator node on one of the most popular cloud providers.](https://github.com/near/stakewars-iii/blob/main/challenges/005.md)
+
+Operation record in here
+[./005.md](./005.md)
 
 ### 006
 
