@@ -16,12 +16,14 @@
 - [Create your Shardnet wallet & deploy the NEAR CLI](https://github.com/near/stakewars-iii/blob/main/challenges/001.md)
 
 Operation record in here
-
-
+[./001.md](./001.md)
 
 ### 002
 
 - [Deploying a node, download a snapshot, sync it, activate the node as a validator.](https://github.com/near/stakewars-iii/blob/main/challenges/002.md)
+
+Operation record in here
+[./002.md](./002.md)
 
 ### 003
 
