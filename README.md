@@ -53,15 +53,17 @@ Operation record in here
 Operation record in here
 [./006.md](./006.md)
 
+### 008
+
+- [Split revenue for staking rewards](https://github.com/near/stakewars-iii/blob/main/challenges/008.md)
+
+[./008.md](./008.md)
+
 ## [TODO]
 
 ### 007
 
 - [Data Science for Staking](https://github.com/near/stakewars-iii/blob/main/challenges/007.md)
-
-### 008
-
-- [Split revenue for staking rewards](https://github.com/near/stakewars-iii/blob/main/challenges/008.md)
 
 ### 009
 
